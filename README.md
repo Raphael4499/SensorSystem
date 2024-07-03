@@ -6,7 +6,7 @@ Für eine detaillierte Anleitung zur Nutzung und Einrichtung dieses Projekts, si
 Dieses Projekt erfordert die Installation der `StandardCplusplus`-Bibliothek. Diese wurde für die Anwendung angepasst und ist hier runterladbar.
 
 ### Installation der `StandardCplusplus`-Bibliothek
-Lade die Bibliothek herunter und füge sie deinem Projekt hinzu. Du kannst die Bibliothek von folgendem Link herunterladen: [StandardCplusplus herunterladen](https://drive.google.com/drive/folders/1KtuY5is2Apb6l_edYM2kcw2EH_zxX5Yw?usp=sharing)
+Lade die Bibliothek herunter und füge sie deinem Projekt hinzu. Du kannst die Bibliothek von folgendem Link herunterladen: [StandardCplusplus herunterladen](https://drive.google.com/drive/folders/1O6TFKQ0zEkDa_eVXzmit57WRAGl3N2YQ?usp=sharing)
 
 
 Alternativ kann die Bibliothek durch eine andere Bibliothek ersetzt werden, die den Datentyp `<set>` und `<list>` unterstützt.
