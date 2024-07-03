@@ -13,4 +13,5 @@ Alternativ kann die Bibliothek durch eine andere Bibliothek ersetzt werden, die 
 
 ## Setup:
 Achte darauf, dass hier im Arduino IDE das richtige board und port ausgewählt wird. Der entsprechende Port muss auch in PyConnection - Gesamtsystem angegeben werden.
+
 ![SetUp](SetUp.PNG)
