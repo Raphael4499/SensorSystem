@@ -10,3 +10,6 @@ Lade die Bibliothek herunter und füge sie deinem Projekt hinzu. Du kannst die B
 
 Alternativ kann die Bibliothek durch eine andere Bibliothek ersetzt werden, die den Datentyp `<set>` unterstützt.
 
+## Setup:
+Achte darauf, dass  hier das richtige board und port ausgewählt wird. Der entsprechende Port muss auch in PyConnection - Gesamtsystem angegeben werden.
+![SetUp](SetUp.PNG)
